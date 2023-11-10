@@ -5,5 +5,6 @@ $(document).ready(function() {
       $(".flame2").animate({"opacity": 0}, "fast");
       $(".flame3").animate({"opacity": 0}, "fast");
       $(".text").animate({"top": -90, "opacity": 1}, "fast");
+      $(".aaaa").animate({"top": 160, "opacity": 1}, "fast");
     });
 });
